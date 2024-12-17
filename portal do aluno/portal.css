@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(228, 189, 189);
+}
+form{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 55px;
+    display: inline-block;
+    background-color: rgb(228, 189, 189);
+    margin-bottom:px;
+    background-size: cover;
+
+}
+h1{
+    border: 2px solid black;
+}
+.pix2{
+height: 90px;
+}
